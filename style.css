@@ -1,0 +1,20 @@
+    /* background-color: rgb(54, 27, 27); */
+
+.navbar ul {
+    background-color: aqua;
+    list-style-type: none;
+    overflow: hidden ;
+}
+.navbar a{
+color:  rgb(10, 10, 10);
+text-decoration: none;
+padding: 10px;
+display: block;
+text-align: center;
+}
+.navbar a:hover {
+    background-color: azure;
+}
+.navbar li {
+    float: left;
+}
